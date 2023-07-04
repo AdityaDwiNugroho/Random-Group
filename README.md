@@ -27,6 +27,6 @@ Pratinjau Pembagian:
 <b>Group 1:</b>
 <b>dimas, alex</b>
 
-<b>Kelompok 2:</b>
+<b>Group 2:</b>
 <b>james</b>
 <b>dona</b>
