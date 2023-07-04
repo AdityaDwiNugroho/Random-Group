@@ -6,7 +6,7 @@ Ini adalah sistem pembagi kelompok acak sederhana. Sistem ini untuk menginputkan
 <h2>Cara Penggunaan </h2>
 
 <ol>
-<li></li>Masukkan nama-nama peserta: Ketik nama-nama peserta yang ingin Anda bagi ke dalam kelompok. Pisahkan setiap nama dengan koma (,). Contoh: dimas, james, alex, dona</li>
+<li>Masukkan nama-nama peserta: Ketik nama-nama peserta yang ingin Anda bagi ke dalam kelompok. Pisahkan setiap nama dengan koma (,). Contoh: dimas, james, alex, dona</li>
 
 <li>Jumlah Kelompok: Tentukan jumlah kelompok yang ingin Anda buat. Misalnya: 2</li>
 
